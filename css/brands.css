@@ -51,6 +51,20 @@
 	--button-border:1px solid #ffffff;
 }
 
+/* Hype ISP Proxies */
+.button-hype-isp-proxies {
+    --button-text: #444444;
+    --button-background: #dbd7cd;
+    --button-border: 1px solid #000000;
+}
+
+/* OneStop Resi Proxies (Referral JWVELVNB) */
+.button-onestop-resi-proxies--referral-jwvelvnb- {
+    --button-text: #ffffff;
+    --button-background: #1d2b3a;
+    --button-border: 1px solid #FFFFFF;
+}
+
 /* Amazon */
 .button-amazon {
 	--button-text:#000000;
