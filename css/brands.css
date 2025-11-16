@@ -34,6 +34,7 @@
 .button-refract-bot {
     --button-text: #282d67;
     --button-background: #FFFFFF;
+    --button-border: 1px solid #000000;
 }
 
 
@@ -55,7 +56,6 @@
 .button-hype-isp-proxies {
     --button-text: #444444;
     --button-background: #dbd7cd;
-    --button-border: 1px solid #000000;
 }
 
 /* OneStop Resi Proxies (Referral JWVELVNB) */
