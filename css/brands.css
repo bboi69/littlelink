@@ -71,6 +71,15 @@
     --button-background: #ffffff;
     --button-border: 1px solid #000000;
 }
+
+/* BFMR */
+.button-bfmr {
+    --button-text: #3bbd96;
+    --button-background: #f9fafc;
+    --button-border: 1px solid #000000;
+}
+
+
 /* Amazon */
 .button-amazon {
 	--button-text:#000000;
