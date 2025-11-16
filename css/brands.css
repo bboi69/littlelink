@@ -36,6 +36,14 @@
     --button-background: #be38f3;
 }
 
+
+/* AYCD */
+.button-aycd {
+    --button-text: #ffffff;
+    --button-background: #161822;
+    --button-border: 1px solid #FFFFFF;
+}
+
 /* Default */
 .button.button-default {
 	--button-text:#ffffff;
